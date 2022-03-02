@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width:900px;
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    background-color: #CCCCCC;
+    color: black;
+    width: 680px;
+    height: 50px;
+    display:flex;
+    position: fixed;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+.search-bar{
+    width: 300px;
+    height: 20px;
+}
+
+.login{
+    background-color: #2B78E4;
+    color: white;
+    width: 50px;
+    height: 20px;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}
+
+.col-1{
+    
+    margin-left: 20px;
+    margin-top: 80px;
+    display:block;
+    
+}
+
+.word-1{
+    margin-top: 0px;
+    background-color: white;
+    height: 120px;
+    width: 400px;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.ninja-1 button{
+    background-color: #FFD966;
+    width: 70px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px black;
+    border: 2px solid black;
+    height: 25px;
+}
+
+.ninja-1 h1,
+.ninja-1 h4,
+.ninja-1 p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.ninja-2 h1,
+.ninja-2 h4,
+.ninja-2 p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+
+
+.word-2{
+    margin-top: 0px;
+    background-color: white;
+    height: 120px;
+    width: 400px;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.ninja-2 button{
+    background-color: #FFD966;
+    width: 70px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px black;
+    border: 2px solid black;
+    height: 25px;
+}
+
+
+.col-2{
+    margin-left;
+    margin-right: 20px;
+    margin-top: 80px;
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    padding: 40px;
+    border: 2px solid black;
+    
+    
+}
+
+.dojonary{
+    color: black;
+    font-weight:lighter;
+    position: relative;
+    top: -20px;
+    left: 0px;
+}       
+
+.col-2 button{
+    background-color: #93C47D;
+    height: 20px;
+    width: 150px;
+    box-shadow: 2px 2px black;
+    border: 2px solid black;
+    
+}
+
